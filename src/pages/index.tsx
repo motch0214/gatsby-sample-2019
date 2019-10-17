@@ -7,8 +7,6 @@ import SEO from "../components/seo"
 
 import styles from "./index.module.scss"
 
-console.warn(styles.imageContainer)
-
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
